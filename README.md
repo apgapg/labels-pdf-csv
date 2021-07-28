@@ -1,5 +1,9 @@
 # labels-pdf-csv
 
+This project demonstrates excel file upload and generate address labels for printing.
+
+## Extras
+
 ## Project setup
 ```
 npm install
